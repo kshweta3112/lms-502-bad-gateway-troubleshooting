@@ -1,0 +1,2 @@
+LISTEN 0      4096         0.0.0.0:8080       0.0.0.0:*    users:(("docker-proxy",pid=29808,fd=7))                                           
+LISTEN 0      4096            [::]:8080          [::]:*    users:(("docker-proxy",pid=29814,fd=7))                                           
